@@ -1,0 +1,38 @@
+[
+    { 
+        "id_kos": "1", 
+        "nama_kos":"Kost Apik House of Athaya tipe B Gubeng", 
+        "lokasi": "Kecamatan Gubeng",
+        "deskripsi" : "Penyedia belum membuat deskripsi",
+        "harga_kos" : "1593000",
+        "review_kos": {
+            "kebersihan" : "3.5",
+            "keamanan" : "4.0",
+            "fasilitas_kamar" : "4.5",
+            "kenyamanan" : "4.5",
+            "harga" : "3.5",
+            "fasilitas_umum" : "4.5"
+            },
+        "fasilitas" : "Termasuk listrik \nTidak ada min. pembayaran\nBisa bayar DP dulu",
+        "peraturan" : "Akses 24 jam \nDilarang membawa lawan jenis \nDilarang membawa hewan peliharaan \nSekamar berdua",
+        "photo_kos": "https://randomuser.me/api/portraits/women/50.jpg" 
+    },
+    { 
+        "id_kos": "2", 
+        "nama_kos":"Data 2", 
+        "lokasi": "Kecamatan Gubeng",
+        "deskripsi" : "Penyedia belum membuat deskripsi",
+        "harga_kos" : "1593000",
+        "review_kos": {
+            "kebersihan" : "3.5",
+            "keamanan" : "4.0",
+            "fasilitas_kamar" : "4.5",
+            "kenyamanan" : "4.5",
+            "harga" : "3.5",
+            "fasilitas_umum" : "4.5"
+            },
+        "fasilitas" : "Termasuk listrik \nTidak ada min. pembayaran\nBisa bayar DP dulu",
+        "peraturan" : "Akses 24 jam \nDilarang membawa lawan jenis \nDilarang membawa hewan peliharaan \nSekamar berdua",
+        "photo_kos": "https://randomuser.me/api/portraits/women/50.jpg" 
+    }
+]
